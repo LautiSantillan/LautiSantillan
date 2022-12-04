@@ -14,9 +14,9 @@ Hello 🙋🏻‍♂️, my name is Lautaro Santillan and I am a Full Stack Web 
 ## 🔧Languages and Tools
 
 <p align="center">
-<img width="5%" src="./img/icons/javascript.png">
 <img width="5%" src="./img/icons/html-blanco.png">
 <img width="5%" src="./img/icons/css-blanco.png">
+<img width="5%" src="./img/icons/javascript.png">
 <img width="5%" src="./img/icons/React.png">
 <img width="5%" src="./img/icons/Redux.png">
 <img width="5%" src="./img/icons/NodeJs.png">
@@ -24,7 +24,7 @@ Hello 🙋🏻‍♂️, my name is Lautaro Santillan and I am a Full Stack Web 
 <img width="5%" src="./img/icons/sequelize.png">
 <img width="5%" src="./img/icons/postgreSQL.png">
 <img width="5%" src="./img/icons/Git.png">
-<img width="5%" src="https://railway.app/brand/logotype-light.png">
+<img width="20%" src="https://railway.app/brand/logotype-light.png">
 <img width="5%" src="./img/icons/vercel.png">
 <img width="5%" src="./img/icons/postman.png">
 </p>
