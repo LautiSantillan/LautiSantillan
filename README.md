@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<video src="BannerdeLautaro.mp4" controls></video>
+<img src="./img/Banner.jpg"/>
 
 <!--
 **LautiSantillan/LautiSantillan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
