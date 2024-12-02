@@ -1,17 +1,16 @@
 <img src="./img/Banner.png"/>
 
-## 👩🏻‍💻 About Me
+## 👩🏻‍💻 Sobre mí
 
 <p>
-Hello 🙋🏻‍♂️, my name is Lautaro Santillan and I am a Full Stack Web Developer oriented to Front End.
+Hola 🙋🏻‍♂️, mi nombre es Lautaro Santillan y soy Desarrollador Web Full Stack orientado a Front End. Actualmente estoy estudiando Ingenieria en Sistemas en la Universidad Tecnológica Nacional de Córdoba.
 
-🔸 I like working in a team and learning from others, I am a responsible and curious person. I am always willing to face new challenges and learn new things to keep improving and growing on the way to form myself as a professional.
+🔸 Me gusta trabajar en equipo y aprender de los demás, soy una persona responsable y curiosa. Siempre estoy dispuesto a afrontar nuevos retos y aprender cosas nuevas para seguir mejorando y creciendo en el camino de formarme como profesional.
 
-🔸 I did the SoyHenry bootcamp, in which I had the opportunity to be a Full Stack Teaching Assistant, a great experience that helped me develop my technical and soft skills in depth, and make a group of people who did not know each other could get along, get along, have fun and support each other so it was a challenge that I could overcome without much difficulty.
-
+🔸 Realicé el bootcamp de SoyHenry, en el cual tuve la oportunidad de ser Full Stack Teaching Asisstant, una gran experiencia que me ayudó a desarrollar mis habilidades técnicas y blandas a profundidad, y hacer que un grupo de personas que no se conocían entre sí pudieran congeniar, llevarse bien, divertirse y apoyarse mutuamente por lo que fue un reto que pude superar sin mucha dificultad.
 </p>
 
-## 🔧Languages and Tools
+## 🔧Tecnologías
 
 <p align="center">
 <img width="5%" src="./img/icons/html-blanco.png">
@@ -29,7 +28,7 @@ Hello 🙋🏻‍♂️, my name is Lautaro Santillan and I am a Full Stack Web 
 <img width="5%" src="./img/icons/postman.png">
 </p>
 
-## 🖥️ Projects
+## 🖥️ Proyectos
 
 <a href="https://pi-food-lautaro-santillan.vercel.app/">Food App</a>
 
@@ -56,7 +55,7 @@ Hello 🙋🏻‍♂️, my name is Lautaro Santillan and I am a Full Stack Web 
 <p><img height="150em" align="left" src="https://github-readme-stats.vercel.app/api?username=LautiSantillan&show_icons=true&locale=en&theme=highcontrast" alt="LautiSantillan" /></p>
 <p>&nbsp;<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LautiSantillan&show_icons=true&locale=en&theme=highcontrast&layout=compact" alt="LautiSantillan" /></p>
 
-## 📧 Connect with me
+## 📧 Contacto
 
 <p align="left">
 <a href="https://mail.google.com/mail/u/0/?fs=1&to=lautiisantillan8@gmail.com&tf=cm"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"  alt="lautiisantillan8@gmail.com" height="28" width="32" />
