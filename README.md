@@ -7,9 +7,6 @@ Hola 🙋🏻‍♂️, mi nombre es Lautaro Santillan y soy Desarrollador Web F
 
 🔸 Me gusta trabajar en equipo y aprender de los demás, soy una persona responsable y curiosa. Siempre estoy dispuesto a afrontar nuevos retos y aprender cosas nuevas para seguir mejorando y creciendo en el camino de formarme como profesional.
 
-🔸 Realicé el bootcamp de SoyHenry, en el cual tuve la oportunidad de ser Full Stack Teaching Asisstant, una gran experiencia que me ayudó a desarrollar mis habilidades técnicas y blandas a profundidad, y hacer que un grupo de personas que no se conocían entre sí pudieran congeniar, llevarse bien, divertirse y apoyarse mutuamente por lo que fue un reto que pude superar sin mucha dificultad.
-</p>
-
 ## 🔧Tecnologías
 
 <p align="center">
